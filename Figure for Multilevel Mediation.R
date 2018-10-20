@@ -1,4 +1,4 @@
-### figure for mulilevel mediation
+### figure for multilevel mediation
 
 ## load packages
 
